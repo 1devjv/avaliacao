@@ -1,0 +1,1 @@
+O objetivo do programa é desenvolver um sistema para gerenciar o cadastro de clientes e realizar a verificação de crédito para a concessão de compras. Caso a renda for menor que 2000 e/ ou score menor que 600 será negado. Caso contrário será aprovado.
